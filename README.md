@@ -14,7 +14,7 @@
    
 <p align="center">
 
-  <a aria-label="Join our channel" href="https://whatsapp.com/channel/0029Va9ZOf36rsR1Ym7O2x00" target="_blank">
+  <a aria-label="Join our channel" href="https://whatsapp.com/channel/0029VascpWq3gvWelgOhrg2V" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
@@ -62,7 +62,7 @@
 <br>
 
 
-<a aria-label="Tutorial" href="https://youtu.be/OqYCvFNE4sU?si=YbPqnLBWeP8-2Yys" target="_blank">
+<a aria-label="Tutorial" href="[[https://whatsapp.com/channel/0029VascpWq3gvWelgOhrg2V](https://whatsapp.com/channel/0029VascpWq3gvWelgOhrg2V)](https://whatsapp.com/channel/0029VascpWq3gvWelgOhrg2V)" target="_blank">
     <img alt="youtube" src="https://img.shields.io/badge/Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 
 
